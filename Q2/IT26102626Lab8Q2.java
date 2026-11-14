@@ -35,7 +35,7 @@ public class IT26102626Lab8Q2{
 		//Display Array elements of C
 		System.out.println();
 		System.out.println();
-		System.out.println("C Array Contents: ");
+		System.out.println("C Array Contents (A + B) : ");
 		for(count=0;count<C.length;count++){
 			System.out.print(C[count] + " ");
 		}
